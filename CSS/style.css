@@ -9,3 +9,17 @@
 .black {
     color: black;
 }
+
+article {
+    width: 1300px;
+    box-shadow: 0 0 20px;
+    background-color: #fff;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 47px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 20px;
+    border-style: outset;
+    border-bottom: rgb(65, 35, 14);
+}

@@ -2,6 +2,91 @@
     color: white;
 }
 
+.v {
+    fill: white;
+}
+
+.A {
+    fill: white;
+}
+
+.B {
+    fill: white;
+}
+
+.M {
+    fill: white;
+}
+
+.AA {
+    fill: rgb(96, 127, 185);
+}
+
+.AB {
+    fill: rgb(96, 127, 185);
+}
+
+.AC {
+    fill: rgb(96, 127, 185);
+}
+
+.AD {
+    fill: rgb(96, 127, 185);
+}
+
+.AE {
+    fill: rgb(96, 127, 185);
+}
+
+.AF {
+    fill: rgb(96, 127, 185);
+}
+
+.F1 {
+    fill: grey;
+}
+
+.F2 {
+    fill: grey;
+}
+
+.F3 {
+    fill: grey;
+}
+
+.F4 {
+    fill: grey;
+}
+
+.F5 {
+    fill: grey;
+}
+
+.ROUE {
+    fill: #d35649;
+}
+
+.S {
+    fill: white
+}
+
+.MAPNAV {
+    fill: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 800px;
+    background-color: black;
+}
+
+.MAP {
+    fill: #d35649;
+}
+
+.Footlink {
+    fill: black;
+    background-color: grey;
+}
+
 .orange {
     color: #ef5350;
 }
@@ -22,4 +107,12 @@ article {
     padding-top: 20px;
     border-style: outset;
     border-bottom: rgb(65, 35, 14);
+}
+
+.btn:hover {
+    background-color: darkblue;
+}
+
+.BTN:hover {
+    text-decoration: underline;
 }

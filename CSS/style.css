@@ -82,11 +82,6 @@
     fill: #d35649;
 }
 
-.Footlink {
-    fill: black;
-    background-color: grey;
-}
-
 .orange {
     color: #ef5350;
 }
@@ -96,7 +91,7 @@
 }
 
 article {
-    width: 1300px;
+    width: 100%;
     box-shadow: 0 0 20px;
     background-color: #fff;
     margin-top: 80px;
@@ -113,6 +108,39 @@ article {
     background-color: darkblue;
 }
 
-.BTN:hover {
+.BTN-fluid:hover {
     text-decoration: underline;
+}
+
+.first :hover {
+    text-decoration: underline;
+}
+
+.link :hover {
+    text-decoration: underline;
+}
+
+.F1 :hover {
+    fill: rgb(27, 79, 221);
+}
+
+.F2 :hover {
+    fill: rgb(27, 79, 221);
+}
+
+.F3 :hover {
+    fill: rgb(27, 79, 221);
+}
+
+.F4 :hover {
+    fill: rgb(27, 79, 221);
+}
+
+.F5 :hover {
+    fill: rgb(27, 79, 221);
+}
+
+.Footlink {
+    fill: black;
+    background-color: grey;
 }
